@@ -38,7 +38,7 @@ export default function About() {
           >
             <div className="about-card glass-card">
               <div className="about-avatar">
-                <span className="avatar-emoji">👨‍💻</span>
+                <img src="/M33.jpg" alt="Sayar Paul" className="avatar-img" />
                 <div className="avatar-rings">
                   <div className="avatar-ring" />
                   <div className="avatar-ring" />

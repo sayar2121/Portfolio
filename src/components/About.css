@@ -33,7 +33,15 @@
   justify-content: center;
 }
 
-.avatar-emoji { font-size: 4rem; z-index: 2; position: relative; }
+.avatar-img {
+  width: 90px;
+  height: 90px;
+  border-radius: 50%;
+  object-fit: cover;
+  z-index: 2;
+  position: relative;
+  border: 2px solid rgba(0, 212, 255, 0.4);
+}
 
 .avatar-rings {
   position: absolute;
