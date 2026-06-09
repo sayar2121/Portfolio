@@ -11,6 +11,7 @@
   overflow: hidden;
   cursor: pointer;
   padding: 0;
+  background: #0d1339 !important; /* Solid background to prevent text overlap bleed */
 }
 
 .card-top-bar {
